@@ -5,3 +5,5 @@ Nela, é possível que digitemos uma senha(ou usuário) sem ser visível às pes
 
 É um código simples, no intuito de ser possível pegar esta mesma idéia e aplicá-la a outro código.
 Disponibilizei um arquivo tanto em ```.ipynb``` quanto em ```.py```.
+
+o arquivo ```.py``` pode ser utilizado como módulo, caso deseja utlizar algo deste arquivo.
